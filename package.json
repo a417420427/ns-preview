@@ -1,0 +1,8 @@
+{
+  "name": "ns-preview",
+  "version": "1.0.0",
+  "description": "picture preview tool",
+  "main": "index.js",
+  "author": "zf",
+  "license": "MIT"
+}
